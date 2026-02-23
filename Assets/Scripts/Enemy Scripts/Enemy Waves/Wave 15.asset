@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ffe06a1dd1741940881b1a700e9f591, type: 3}
+  m_Name: Wave 15
+  m_EditorClassIdentifier: 
+  EnemyWave:
+  - {fileID: 3133497072612561546, guid: ca671920cc2dc4a4aa6891c1c08604d5, type: 3}

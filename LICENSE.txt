@@ -1,0 +1,28 @@
+Proprietary Game License (PGL-1.0)
+
+Preamble.
+This Proprietary Game License ("License") governs your use of the Tower Defense Prototype (including its source code, binaries, assets, artwork, audio, documentation, and all related materials) provided by Dynamic-Pistol ("Licensor"). This License is not open source. By accessing, downloading, or using the Tower Defense Prototype, you accept these terms.
+
+1. Limited Forking for Personal Build Only.
+You may fork the repository solely to compile and build the Tower Defense Prototype for your personal, non-commercial use on your own devices. Forked copies must remain private and cannot be made public, shared, or distributed in any form.
+
+2. No Code Access or Modification.
+You may not view, access, decompile, reverse engineer, disassemble, or modify the source code, binaries, or any other components of the Tower Defense Prototype. No derivatives, patches, or alterations are permitted.
+
+3. No Selling or Commercial Use.
+You may not sell, license, rent, lease, or otherwise monetize the Tower Defense Prototype, its components, or any builds thereof. No commercial distribution is allowed.
+
+4. No Asset Use.
+You may not extract, copy, adapt, or use any assets (including but not limited to images, models, sounds, music, textures, or UI elements) from the Tower Defense Prototype or repository for any purpose, including in other projects.
+
+5. No Redistribution.
+Except for the limited personal forking in Section 1, you may not distribute, share, or make available the Tower Defense Prototype, its source code, binaries, or any parts thereof.
+
+6. Termination.
+This License terminates automatically upon any violation. Licensor may enforce it through legal action, including injunctions and damages.
+
+7. No Warranty.
+The Tower Defense Prototype is provided "as is" without warranties of any kind.
+
+8. Governing Law.
+This License is governed by the laws of Egypt.
